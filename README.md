@@ -1,2 +1,2 @@
 # FactorsAffectingWAR
- Predicting which factors affect W
+ Analyzing which individual factors affect WAR
